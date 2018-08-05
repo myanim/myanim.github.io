@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.site-title {
+  padding-left: 100px;
+  background-image: url('/assets/images/lotus-drawing.jpg');
+  background-size: 100px 100px;
+  background-repeat: no-repeat;
+  height: 100px;
+}
+.site-header {
+  min-height: 100px;
+}
